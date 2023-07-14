@@ -1,1 +1,1 @@
-# WhatsApp_Chat_Amalyzer
+# WhatsApp_Chat_Analyzer
